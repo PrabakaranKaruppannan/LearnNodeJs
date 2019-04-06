@@ -1,3 +1,5 @@
+// Events module is used to emit the events.
+
 let EventEmitter = require('events');
 let eventEmitter = new EventEmitter();
 
